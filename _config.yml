@@ -1,0 +1,28 @@
+name: Our Frictionless Society
+favicon: null
+layout_spectrum: 0.7561997673474252
+typography_spectrum: 0.04503030329942703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.02003935561515391
+  lightness: 0.10828459588810802
+  saturation: 0.5396525233518332
+  rhythmicContrast: 0.9145524229388684
+purpose: []
