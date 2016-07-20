@@ -1,28 +1,40 @@
-name: Our Frictionless Society
 favicon: null
-layout_spectrum: 0.7561997673474252
-typography_spectrum: 0.04503030329942703
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Our Frictionless Society
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8377193
+  brandStrength: 0.25
+  lightness: 0.4987469
   brandColors:
     - '#3e854d'
     - '#73562d'
     - '#2b1b07'
     - '#e8eae7'
     - '#b1b5ab'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.5396525233518332
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.4611529
+typography_spectrum: 0.3464912
+layout_spectrum: 0.1779449
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
